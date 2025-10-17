@@ -28,4 +28,10 @@ The goal was to perform a vulnerability assessment on the **Damn Vulnerable Web 
 - Identifying OWASP Top 10 vulnerabilities
 - Using ethical hacking tools
 - Writing professional security documentation
+  
+
+
+
+
+
 
